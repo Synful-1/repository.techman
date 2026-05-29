@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="Synful-1.github.io" name="Techman Wizard" version="1.0.0" provider-name="SynfulQ">
+<addon id="repository.techman" name="Techman Wizard" version="1.0.0" provider-name="SynfulQ">
     <extension point="xbmc.addon.repository" name="Techman Wizard">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/Synful-1/repository.techman/master/repo/zips/addons.xml</info>
@@ -9,7 +9,7 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Techman Wizard Repository</summary>
-        <description>Custom builds as Smooth and Simplified as you can get</description>
+        <description>My Custom build for Simplicity an Ease of use</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <assets>
@@ -18,5 +18,3 @@
         </assets>
     </extension>
 </addon>
-
-
